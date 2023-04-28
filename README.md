@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mazyar
 - 👀 I’m interested in dot net 
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I always try to learn new things
+- 💞️ I’m looking to collaborate on whatever project that can teach me new intrested things
 - 📫 How to reach me : shahhosseini.mazyar@gmail.com
 
 <!---
